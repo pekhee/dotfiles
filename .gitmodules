@@ -1,0 +1,6 @@
+[submodule "emacs"]
+	path = emacs
+	url = https://github.com/pekhee/editor_conf
+[submodule "xmonad"]
+	path = xmonad
+	url = git@github.com:pekhee/window_manager.git
